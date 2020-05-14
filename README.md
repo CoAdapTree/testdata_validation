@@ -22,3 +22,8 @@ Validate sites that are called as heterozygote from haploid tissue as those pote
 ### Usage    
 
 If you use or are inspired by code from this repo, please site related manuscripts (update to follow).
+
+
+---
+
+`pythonimports` in notebooks can be found here: https://github.com/brandonlind/pythonimports
