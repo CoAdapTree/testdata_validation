@@ -30,13 +30,6 @@ This notebook takes SNPs intesecting indSeq and poolSeq methods for Doug-fir and
 
 Validate sites that are called as heterozygote from haploid tissue as those potentially within a region subject to paralog misalignment.
 
----
-
-### Usage    
-
-If you use or are inspired by code from this repo, please site related manuscripts:
-Lind et al. (2020) Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. bioRxiv https://doi.org/10.1101/2020.10.07.329961
-
 
 ---
 
