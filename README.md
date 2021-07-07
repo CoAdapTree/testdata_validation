@@ -8,7 +8,12 @@ Code used to validate allele frequency estimates from our poolSeq data by compar
 
 If you use or are inspired by code from this repo, please site related manuscripts and data (update for code deposition to follow):
 
-Lind et al. (2020) Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. bioRxiv https://doi.org/10.1101/2020.10.07.329961
+Data
+- NCBI Bioproject PRJNA744263
+- Dryad - contains all filtered SNP calls, pipeline config files, and metadata for SRA and Biosamples
+- Zenodo - contains an archived release of this repository
+
+Lind et al. (in press) Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. Accepted to Molecular Ecology Resources. Available on bioRxiv https://doi.org/10.1101/2020.10.07.329961
 
 ---
 
@@ -29,6 +34,14 @@ This notebook takes SNPs intesecting indSeq and poolSeq methods for Doug-fir and
 [__003_testdata_validate_megaSNPs.ipynb__](https://nbviewer.jupyter.org/github/CoAdapTree/testdata_validation/blob/master/003_testdata_validate_megaSNPs.ipynb)
 
 Validate sites that are called as heterozygote from haploid tissue as those potentially within a region subject to paralog misalignment.
+
+[__004_misc_suppmat.ipynb__](https://nbviewer.jupyter.org/github/CoAdapTree/testdata_validation/blob/master/004_misc_suppmat.ipynb)
+
+Calculate some numbers for some tables and the Supplemental Material
+
+[__005_transfer_to_SRA.ipynb__](https://nbviewer.jupyter.org/github/CoAdapTree/testdata_validation/blob/master/005_transfer_to_SRA.ipynb)
+
+Code to create SRA metadata, Biosample metadata, and to upload fastq files to NCBI Short Read Archive ftp with python
 
 
 ---
