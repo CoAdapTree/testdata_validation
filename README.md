@@ -6,7 +6,7 @@ Code used to validate allele frequency estimates from our poolSeq data by compar
 
 ### Usage    
 
-If you use or are inspired by code from this repo, please site related manuscripts and data (update for code deposition to follow):
+If you use or are inspired by code from this repo, please site related manuscripts and data:
 
 Data
 - NCBI Bioproject PRJNA744263 - https://www.ncbi.nlm.nih.gov/bioproject/PRJNA744263/
