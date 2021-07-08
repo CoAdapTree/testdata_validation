@@ -9,7 +9,7 @@ Code used to validate allele frequency estimates from our poolSeq data by compar
 If you use or are inspired by code from this repo, please site related manuscripts and data (update for code deposition to follow):
 
 Data
-- NCBI Bioproject PRJNA744263
+- NCBI Bioproject PRJNA744263 - https://www.ncbi.nlm.nih.gov/bioproject/PRJNA744263/
 - Dryad - contains all filtered SNP calls, pipeline config files, and metadata for SRA and Biosamples - https://doi.org/10.5061/dryad.k0p2ngf7w
 - Zenodo - contains an archived release of this repository
 
