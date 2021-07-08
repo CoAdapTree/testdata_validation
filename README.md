@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083292.svg)](https://doi.org/10.5281/zenodo.5083292)
+[![DOI](https://zenodo.org/badge/DOI/10.5061/dryad.k0p2ngf7w.svg)](https://doi.org/10.5061/dryad.k0p2ngf7w)
+
 # Testdata validation
 
 Code used to validate allele frequency estimates from our poolSeq data by comparing estimates from the same individual sequence data, as well as to validate megaSNPs as likely regions where paralogs are likely misaligning and causing false positive SNPs in our data.
@@ -6,12 +9,12 @@ Code used to validate allele frequency estimates from our poolSeq data by compar
 
 ### Usage    
 
-If you use or are inspired by code from this repo, please site related manuscripts and data (update for code deposition to follow):
+If you use or are inspired by code from this repo, please site related manuscripts and data:
 
 Data
-- NCBI Bioproject PRJNA744263
-- Dryad - contains all filtered SNP calls, pipeline config files, and metadata for SRA and Biosamples
-- Zenodo - contains an archived release of this repository
+- NCBI Bioproject PRJNA744263 - https://www.ncbi.nlm.nih.gov/bioproject/PRJNA744263/
+- Dryad - contains all filtered SNP calls, pipeline config files, and metadata for SRA and Biosamples - [![DOI](https://zenodo.org/badge/DOI/10.5061/dryad.k0p2ngf7w.svg)](https://doi.org/10.5061/dryad.k0p2ngf7w)
+- Zenodo - contains an archived release of this repository - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083292.svg)](https://doi.org/10.5281/zenodo.5083292)
 
 Lind et al. (in press) Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. Accepted to Molecular Ecology Resources. Available on bioRxiv https://doi.org/10.1101/2020.10.07.329961
 
